@@ -3,5 +3,5 @@
 
 class Test_fn1():
     def test_02(self):
-        print("666_git_Athena")
+        print("666_git_Athena_02")
 
